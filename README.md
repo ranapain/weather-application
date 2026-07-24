@@ -67,7 +67,7 @@ Simply open the `index.html` file in your browser.
 3. Replace the API Key inside `script.js`.
 
 ```javascript
-const apiKey = "YOUR_API_KEY";
+const apiKey = "ea6f0022c04773950a834ab3919f439b";
 ```
 
 ---
