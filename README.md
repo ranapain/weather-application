@@ -83,10 +83,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages link here after deployment.
-
-```
-https://your-username.github.io/weather-application/
+👉 [Click Here to View Live Demo](https://ranapain.github.io/weather-application/)
 ```
 
 ---
