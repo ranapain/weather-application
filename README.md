@@ -76,7 +76,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](images/weather-app.png)
+![Weather App Screenshot](Screenshot%202026-07-20%20221749.png)
 ```
 
 ---
