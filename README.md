@@ -76,12 +76,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 📸 Screenshot
 
-> Add a screenshot of your application here.
-
-Example:
-
-```
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](images/weather-app.png)
 ```
 
 ---
