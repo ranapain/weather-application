@@ -1,4 +1,4 @@
-# 🌦 Weather Application
+# 🌦️ Weather Application
 
 A modern, responsive, and user-friendly Weather Application that provides real-time weather information for any city using the OpenWeather API.
 
@@ -17,9 +17,9 @@ This project allows users to search for any city and instantly view its current 
 - 💧 Humidity information
 - 💨 Wind speed
 - 🌥️ Weather condition with icons
-- 📱 Fully responsive design
-- ⚡ Fast and lightweight interface
-- ❌ Error message for invalid city names
+- 📱 Fully Responsive Design
+- ⚡ Fast and Lightweight Interface
+- ❌ Error Message for Invalid City Names
 
 ---
 
@@ -34,14 +34,12 @@ This project allows users to search for any city and instantly view its current 
 
 ## 📂 Project Structure
 
-```
+```text
 Weather-Application/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   └── images
 ├── screenshot.png
 └── README.md
 ```
@@ -53,7 +51,7 @@ Weather-Application/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-application.git
+git clone https://github.com/ranapain/weather-application.git
 ```
 
 ### Open the Project
@@ -76,14 +74,15 @@ const apiKey = "YOUR_API_KEY";
 
 ## 📸 Screenshot
 
+> Make sure your screenshot file is named **screenshot.png** and placed in the root folder of the repository.
+
 ![Weather App Screenshot](Screenshot%202026-07-20%20221749.png)
 
-```
+---
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:**  
-https://ranapain.github.io/weather-application/
+👉 **[View Live Demo](https://ranapain.github.io/weather-application/)**
 
 ---
 
@@ -126,4 +125,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-⭐ **If you found this project helpful, please consider giving it a Star!**
+⭐ **If you found this project helpful, please give it a Star!**
