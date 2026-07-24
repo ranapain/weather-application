@@ -82,20 +82,19 @@ const apiKey = "YOUR_API_KEY";
 
 ## 🌐 Live Demo
 
+🔗 **Live Website:**  
 https://ranapain.github.io/weather-application/
-
----
 
 ---
 
 ## 🎯 Future Improvements
 
-- 📍 Current location weather
-- 🌙 Dark/Light mode
-- 📅 5-Day weather forecast
-- 🌍 Multiple language support
-- ⭐ Favorite cities
-- 🕒 Search history
+- 📍 Current Location Weather
+- 🌙 Dark / Light Mode
+- 📅 5-Day Weather Forecast
+- 🌍 Multi-language Support
+- ⭐ Favorite Cities
+- 🕒 Search History
 
 ---
 
@@ -105,16 +104,17 @@ Contributions are welcome!
 
 If you'd like to improve this project:
 
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
+1. Fork the repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Push the branch.
+5. Open a Pull Request.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -122,8 +122,8 @@ This project is licensed under the MIT License.
 
 **Rana Pain**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/ranapain
 
 ---
 
-⭐ If you found this project helpful, don't forget to **Star** this repository!
+⭐ **If you found this project helpful, please consider giving it a Star!**
