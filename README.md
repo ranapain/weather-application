@@ -83,7 +83,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 🌐 Live Demo
 
-👉 [Click Here to View Live Demo](https://ranapain.github.io/weather-application/)
+https://ranapain.github.io/weather-application/
 ```
 
 ---
